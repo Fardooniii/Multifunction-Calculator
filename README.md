@@ -5,7 +5,7 @@ This project was created to practice the use of functions, loops, conditionals, 
 
 ---
 
-## 🧠 Features
+##  Features
 - Addition, subtraction, multiplication, and division  
 - Input validation for non-numeric values  
 - Division-by-zero error prevention  
@@ -14,7 +14,7 @@ This project was created to practice the use of functions, loops, conditionals, 
 
 ---
 
-## 💻 How to Run
+##  How to Run
 1. Make sure **Python 3** is installed on your computer.  
 2. Download or clone this repository:
    ```bash
